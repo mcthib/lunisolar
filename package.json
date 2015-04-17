@@ -1,0 +1,21 @@
+{
+  "name": "lunisolar",
+  "version": "0.0.1",
+  "description": "Provides routines for interacting with the Chinese lunisolar calendar, including conversions to/from the Gregorian calendar.",
+  "main": "lunisolar.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcthib/lunisolar"
+  },
+  "keywords": [
+    "calendar",
+    "chinese",
+    "lunisolar",
+    "gregorian"
+  ],
+  "author": "Thibaut Vial",
+  "license": "ISC"
+}
